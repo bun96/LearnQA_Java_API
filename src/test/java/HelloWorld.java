@@ -1,9 +1,9 @@
 import org.junit.jupiter.api.Test;
 
-public class HelloWorldTest {
+public class HelloWorld {
 
     @Test
-    public void testHelloWorld(){
+    public void testHello(){
         System.out.println("Hello from Mihail Lubeznow");
     }
 }
